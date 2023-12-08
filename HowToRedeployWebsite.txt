@@ -1,0 +1,6 @@
+1. Click Actions
+2. Go under All Workflows and click recent
+3. Click Upper right corner, the button that says Re-run all jobs
+
+THIS IS ONLY IF THE COMMIT DOESNT MAKE CHANGES TO THE ACTUAL WEBSITE
+This will redeploy the website and will generally take 1-2 minutes
